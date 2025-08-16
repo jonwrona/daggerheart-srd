@@ -1,4 +1,4 @@
-﻿# A SOLDIER’S BOND
+# A SOLDIER’S BOND
 
 > **Level 2 Blade Ability**  
 > **Recall Cost:** 1

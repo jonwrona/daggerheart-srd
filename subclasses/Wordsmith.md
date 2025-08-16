@@ -1,4 +1,4 @@
-﻿# WORDSMITH
+# WORDSMITH
 
 Play the Wordsmith if you want to use clever wordplay and captivate crowds.
 

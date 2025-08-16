@@ -1,4 +1,4 @@
-﻿# CALL OF THE SLAYER
+# CALL OF THE SLAYER
 
 Play the Call of the Slayer if you want to strike down adversaries with immense force.
 

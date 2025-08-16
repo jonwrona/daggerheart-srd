@@ -1,4 +1,4 @@
-﻿# ADJUST REALITY
+# ADJUST REALITY
 
 > **Level 10 Arcana Spell**  
 > **Recall Cost:** 1

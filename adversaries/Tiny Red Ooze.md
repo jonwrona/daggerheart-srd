@@ -1,4 +1,4 @@
-﻿# TINY RED OOZE
+# TINY RED OOZE
 
 ***Tier 1 Skulk***  
 *A small moving mound of translucent flaming red slime.*  

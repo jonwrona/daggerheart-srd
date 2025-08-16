@@ -1,4 +1,4 @@
-﻿# CHAIN LIGHTNING
+# CHAIN LIGHTNING
 
 > **Level 5 Arcana Spell**  
 > **Recall Cost:** 1

@@ -1,4 +1,4 @@
-﻿# VAULT GUARDIAN SENTINEL
+# VAULT GUARDIAN SENTINEL
 
 ***Tier 3 Bruiser***  
 *A dust-covered golden construct with boxy limbs and a huge mace for a hand.*  

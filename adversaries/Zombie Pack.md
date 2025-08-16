@@ -1,4 +1,4 @@
-﻿# ZOMBIE PACK
+# ZOMBIE PACK
 
 ***Tier 1 Horde (2/HP)***  
 *A group of shambling corpses instinctively moving together.*  

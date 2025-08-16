@@ -1,4 +1,4 @@
-﻿# BATTLE-HARDENED
+# BATTLE-HARDENED
 
 > **Level 6 Blade Ability**  
 > **Recall Cost:** 2

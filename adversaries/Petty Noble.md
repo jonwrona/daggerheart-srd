@@ -1,4 +1,4 @@
-﻿# PETTY NOBLE
+# PETTY NOBLE
 
 ***Tier 1 Social***  
 *A richly dressed and adorned aristocrat brimming with hubris.*  

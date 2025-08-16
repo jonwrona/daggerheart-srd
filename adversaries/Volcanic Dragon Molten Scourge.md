@@ -1,4 +1,4 @@
-﻿# VOLCANIC DRAGON: MOLTEN SCOURGE
+# VOLCANIC DRAGON: MOLTEN SCOURGE
 
 ***Tier 4 Solo***  
 *Engaged by their wounds, the dragon bursts into molten lava.*  

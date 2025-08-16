@@ -1,4 +1,4 @@
-﻿# VOLCANIC DRAGON: ASHEN TYRANT
+# VOLCANIC DRAGON: ASHEN TYRANT
 
 ***Tier 4 Solo***  
 *A legendary, lava-hardened dragon. No enemy has ever had the insolence to wound the dragon so.*  

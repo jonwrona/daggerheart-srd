@@ -1,4 +1,4 @@
-﻿# PERFECTED ZOMBIE
+# PERFECTED ZOMBIE
 
 ***Tier 4 Bruiser***  
 *A towering, muscular zombie with magically infused strength and skill.*  

@@ -1,4 +1,4 @@
-﻿# SPY
+# SPY
 
 ***Tier 2 Social***  
 *A skilled espionage agent with a knack for being in the right place to overhear secrets.*  

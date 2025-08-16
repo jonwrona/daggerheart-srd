@@ -1,4 +1,4 @@
-﻿# VAULT GUARDIAN TURRET
+# VAULT GUARDIAN TURRET
 
 ***Tier 3 Ranged***  
 *A massive hulking turret with reinforced armor and twelve piston-driven mechanical legs.*  
