@@ -1,4 +1,4 @@
-﻿# ASTRAL PROJECTION
+# ASTRAL PROJECTION
 
 > **Level 8 Grace Spell**  
 > **Recall Cost:** 0

@@ -25,6 +25,7 @@ feats:
     desc: "The Bandit climbs just as easily as they run."
   - name: "From Above - Passive"
     desc: "When the Bandit succeeds on a standard attack from above a target, they deal 1d10+1 physical damage instead of their standard damage."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # JAGGED KNIFE BANDIT

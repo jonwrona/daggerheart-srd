@@ -26,6 +26,7 @@ feats:
     desc: "Add a bonus to the Demon's attack rolls equal to the number of handfuls of gold they have."
   - name: "Money is Time - Action"
     desc: "Spend 3 handfuls of gold (or a Fear) to spotlight 1d4+1 allies."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # DEMON OF AVARICE

@@ -22,6 +22,7 @@ feats:
     desc: "When a PC takes damage from the Corrupter, they lose a Hope."
   - name: "Disgorge Reality Flotsam - Action"
     desc: "Mark a Stress to spew partially digested portions of consumed realities at all targets within Close range. Targets must succeed on a Knowledge Reaction Roll or mark 2 Stress."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # OUTER REALMS CORRUPTER

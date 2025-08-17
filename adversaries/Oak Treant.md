@@ -27,6 +27,7 @@ feats:
     desc: "Mark a Stress and make an attack against up to three targets within Close range, pummeling them with giant acorns. Targets the Treant succeeds against take 2d10+5 physical damage."
   - name: "Take Root - Action"
     desc: "Mark a Stress to Root the Treant in place. The Treant is Restrained while Rooted, and can end this effect instead of moving while they are spotlighted. While Rooted, the Treant has resistance to physical damage."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # OAK TREANT

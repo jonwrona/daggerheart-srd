@@ -26,6 +26,7 @@ feats:
     desc: "Mark a Stress to create a magically dazzling display that grapples the minds of nearby foes. All targets within Close range must make an Instinct Reaction Roll. For each target who failed, you gain a Fear and the Flickerfly learns one of the target's fears."
   - name: "Hallucinatory Breath - Reaction: Countdown (Loop 1d6)"
     desc: "When the Flickerfly takes damage for the first time, activate the countdown. When it triggers, the Flickerfly breathes hallucinatory gas on all targets in front of them up to Far range. Targets must succeed on an Instinct Reaction Roll or be tormented by fearful hallucinations. Targets whose fears are known to the Flickerfly have disadvantage on this roll. Targets who fail must mark a Stress and lose a Hope."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # JUVENILE FLICKERFLY

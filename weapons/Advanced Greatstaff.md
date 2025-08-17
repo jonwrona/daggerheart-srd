@@ -1,4 +1,4 @@
-﻿# ADVANCED GREATSTAFF
+# ADVANCED GREATSTAFF
 
 **Trait:** Knowledge; **Range:** Very Far; **Damage:** d6+6 mag; **Burden:** Two-Handed
 

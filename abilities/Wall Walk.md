@@ -1,4 +1,4 @@
-﻿# WALL WALK
+# WALL WALK
 
 > **Level 1 Arcana Spell**  
 > **Recall Cost:** 1

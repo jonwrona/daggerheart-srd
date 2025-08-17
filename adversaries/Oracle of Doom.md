@@ -33,6 +33,7 @@ feats:
     desc: "When the Oracle sees a mortal creature, they instantly know one of their personal nightmares."
   - name: "Vengeful Fate - Reaction"
     desc: "When the Oracle marks HP from an attack within Very Close range, you can mark a Stress to knock the attacker back to Far range and deal 2d10+4 physical damage."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # ORACLE OF DOOM

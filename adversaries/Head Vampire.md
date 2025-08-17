@@ -32,6 +32,7 @@ feats:
     desc: "Spend 2 Fear to summon 1d4 Vampires, who appear at Far range and immediately take the spotlight."
   - name: "Lifesuck - Reaction"
     desc: "When the Vampire is spotlighted, roll a d8. On a result of 6 or higher, all targets within Very Close range must mark a HP."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # HEAD VAMPIRE

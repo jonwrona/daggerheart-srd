@@ -30,6 +30,7 @@ feats:
     desc: "If the Knight is mounted, move up to Far range and make a standard attack against a target. On a success, deal 2d8+4 physical damage and the target must mark a Stress."
   - name: "For the Realm! - Action"
     desc: "Mark a Stress to spotlight 1d4+1 allies. Attacks they make while spotlighted in this way deal half damage."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # KNIGHT OF THE REALM

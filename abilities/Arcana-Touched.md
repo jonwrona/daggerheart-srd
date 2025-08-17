@@ -1,4 +1,4 @@
-﻿# ARCANA-TOUCHED
+# ARCANA-TOUCHED
 
 > **Level 7 Arcana Ability**  
 > **Recall Cost:** 2

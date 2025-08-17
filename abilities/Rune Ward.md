@@ -1,4 +1,16 @@
-﻿# RUNE WARD
+---
+statblock: true
+layout: Daggerheart Card
+source: Daggerheart SRD - Abilities
+name: Rune Ward
+level: 1
+domain: Arcana
+type: Spell
+recall: "0"
+text: "You have a deeply personal trinket that can be infused with protective magic and held as a ward by you or an ally. Describe what it is and why it’s important to you. The ward’s holder can spend a Hope to reduce incoming damage by 1d8.\r\rIf the Ward Die result is 8, the ward’s power ends after it reduces damage this turn. It can be recharged for free on your next rest."
+---
+
+# RUNE WARD
 
 > **Level 1 Arcana Spell**  
 > **Recall Cost:** 0

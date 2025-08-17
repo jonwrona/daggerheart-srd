@@ -28,6 +28,7 @@ feats:
     desc: "When the Demon takes damage from an attack within Close range, you can mark a Stress to make a standard attack against the attacker."
   - name: "Blood and Souls - Reaction: Countdown (Loop 6)"
     desc: "Activate the first time an attack is made within sight of the Demon. It ticks down when a PC takes a violent action. When it triggers, summon 1d4 Minor Demons, who appear at Close range."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # DEMON OF WRATH

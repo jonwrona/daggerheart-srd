@@ -27,6 +27,7 @@ feats:
     desc: "The Assassin has advantage on attacks if they are Hidden."
   - name: "Fumigation - Action"
     desc: "Drop a smoke bomb that fills the air within Close range with smoke, Dizzilying all targets in this area. Dizzied targets have disadvantage on their next action roll, then clear the condition."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # ASSASSIN POISONER

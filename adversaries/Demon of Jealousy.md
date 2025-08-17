@@ -28,6 +28,7 @@ feats:
     desc: "When a creature within Close range takes damage from a different adversary, you can mark a Stress to add a d4 to the damage roll."
   - name: "What's Yours Is Mine - Reaction"
     desc: "When a PC takes severe damage within Very Close range of the Demon, you can spend a Fear to cause the target to make a Finesse Reaction Roll. On a failure, the Demon seizes one item or consumable of their choice from the target's inventory."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # DEMON OF JEALOUSY

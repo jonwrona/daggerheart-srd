@@ -1,4 +1,4 @@
-﻿# BATTLE CRY
+# BATTLE CRY
 
 > **Level 8 Blade Ability**  
 > **Recall Cost:** 2

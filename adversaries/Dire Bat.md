@@ -26,6 +26,7 @@ feats:
     desc: "Mark a Stress to send a high-pitch screech out toward all targets in front of the Bat within Far range. Those targets must mark 1d4 Stress."
   - name: "Guardian - Reaction"
     desc: "When an allied Vampire marks HP, you can mark a Stress to fly into Melee range of the attacker and make an attack with advantage against them. On a success, deal 2d6+2 physical damage."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # DIRE BAT

@@ -31,6 +31,7 @@ feats:
     desc: "When the Gorgon takes damage from an attack within Close range, you can spend a Fear to force the attacker to make an Instinct Reaction Roll. On a failure, they begin to turn to stone, marking a HP and starting a Petrification Countdown (4). This countdown ticks down when the Gorgon is attacked. When it triggers, the target must make a death move. If the Gorgon is defeated, all petrification countdowns end."
   - name: "Death Glare - Reaction"
     desc: "When the Gorgon makes a successful attack against a PC, you gain a Fear."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # GORGON

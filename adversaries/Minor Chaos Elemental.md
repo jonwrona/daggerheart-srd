@@ -28,6 +28,7 @@ feats:
     desc: "When the Elemental takes damage from an attack within Close range, deal an amount of damage to the attacker equal to half of the damage they dealt."
   - name: "Momentum - Reaction"
     desc: "When the Elemental makes a successful attack against a PC, you gain a Fear."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # MINOR CHAOS ELEMENTAL

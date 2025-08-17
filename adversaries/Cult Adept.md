@@ -29,6 +29,7 @@ feats:
     desc: "Spend a Fear and choose a point within Far range. All targets within Close range of that point are Restrained in smoky chains until they break free with a successful Strength or Instinct Roll. A target Restrained by this feature must spend a Hope to make an action roll."
   - name: "Fear Is Fuel - Reaction"
     desc: "Twice per scene, when a PC rolls a failure with Fear, clear a Stress."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # CULT ADEPT

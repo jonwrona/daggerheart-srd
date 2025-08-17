@@ -28,6 +28,7 @@ feats:
     desc: "Before rolling damage for the Box's attack, you can mark a Stress to add a d6 to the damage roll. Additionally, you gain a Fear."
   - name: "Death Quake - Reaction"
     desc: "When the Box marks their last HP, the magic powering them ruptures in an explosion of force. All targets within Close range must succeed on an Instinct Reaction Roll or take 2d8+1 magic damage."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # BATTLE BOX

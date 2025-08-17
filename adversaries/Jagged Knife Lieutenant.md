@@ -29,6 +29,7 @@ feats:
     desc: "Spend a Fear to make an attack against a Vulnerable target within Close range. On a success, deal 2d6+12 physical damage and the target must mark a Stress."
   - name: "Momentum - Reaction"
     desc: "When the Lieutenant makes a successful attack against a PC, you gain a Fear."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # JAGGED KNIFE LIEUTENANT

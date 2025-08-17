@@ -28,6 +28,7 @@ feats:
     desc: "When a PC fails with Fear, you can mark a Stress to cause all other PCs within Close range to lose a Hope."
   - name: "Momentum - Reaction"
     desc: "When the Demon makes a successful attack against a PC, you gain a Fear."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # DEMON OF DESPAIR

@@ -24,6 +24,7 @@ feats:
     desc: "When a PC marks HP from an attack by the Shock Troop, they lose a Hope."
   - name: "Group Attack - Action"
     desc: "Spend a Fear to choose a target and spotlight all Fallen Shock Troops within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 12 physical damage each. Combine this damage."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # FALLEN SHOCK TROOP

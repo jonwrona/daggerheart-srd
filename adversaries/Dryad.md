@@ -26,6 +26,7 @@ feats:
     desc: "Spend a Fear to grow three Treant Sapling Minions, who appear at Close range and immediately take the spotlight."
   - name: "We Are All One - Reaction"
     desc: "When an ally dies within Close range, you can spend a Fear to clear 2 HP and 2 Stress as the fallen ally's life force is returned to the forest."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # DRYAD

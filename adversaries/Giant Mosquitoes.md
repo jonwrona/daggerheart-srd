@@ -26,6 +26,7 @@ feats:
     desc: "While flying, the Mosquitoes have a +2 bonus to their Difficulty."
   - name: "Bloodseeker - Reaction"
     desc: "When the Mosquitoes' attack causes a target to mark HP, you can mark a Stress to force the target to mark an additional HP."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # GIANT MOSQUITOES

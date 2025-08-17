@@ -31,6 +31,7 @@ feats:
     desc: "Spend a Fear to spew a line of boiling water at any number of targets in a line up to Far range. All targets must succeed on an Agility Reaction Roll or take 4d6+9 physical damage. If a target marks an Armor Slot to reduce the damage, they must also mark a Stress."
   - name: "Momentum - Reaction"
     desc: "When the Kraken makes a successful attack against a PC, you gain a Fear."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # KRAKEN

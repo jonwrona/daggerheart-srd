@@ -29,6 +29,7 @@ feats:
     desc: "Three times per scene, when the Elemental moves on objects that are highly flammable, consume them to clear a HP or a Stress."
   - name: "Momentum - Reaction"
     desc: "When the Elemental makes a successful attack against a PC, you gain a Fear."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # MINOR FIRE ELEMENTAL

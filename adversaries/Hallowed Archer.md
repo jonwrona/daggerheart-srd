@@ -23,6 +23,7 @@ feats:
     desc: "The Archer deals double damage to targets marked Guilty by a High Seraph."
   - name: "Divine Volley - Action"
     desc: "Mark a Stress to make a standard attack against up to three targets."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # HALLOWED ARCHER

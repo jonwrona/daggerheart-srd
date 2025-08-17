@@ -29,6 +29,7 @@ feats:
     desc: "Make an attack against a target within Melee range. On a success, the Ooze Envelops them and the target must mark 2 Stress. While Enveloped, the target must mark an additional Stress every time they make an action roll. When the Ooze takes Severe damage, all Enveloped targets are freed and the condition is cleared."
   - name: "Split - Reaction"
     desc: "When the Ooze has 4 or more HP marked, you can spend a Fear to split them into two Green Oozes (with no marked HP or Stress). Immediately spotlight both of them."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # HUGE GREEN OOZE

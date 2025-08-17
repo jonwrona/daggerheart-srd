@@ -24,6 +24,7 @@ feats:
     desc: "While the Soldier is flying, spend a Fear to move up to Far range instead of Close range before taking an action."
   - name: "Group Attack - Action"
     desc: "Spend a Fear to choose a target and spotlight all Hallowed Soldiers within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 10 physical damage each. Combine this damage."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # HALLOWED SOLDIER

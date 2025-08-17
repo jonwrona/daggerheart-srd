@@ -36,6 +36,7 @@ feats:
     desc: "When the Undefeated Champion makes a successful attack against a PC, you gain a Fear."
   - name: "Doombringer - Reaction"
     desc: "When a target marks HP from an attack by the Undefeated Champion, all PCs within Far range of the target lose a Hope."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # FALLEN WARLORD: UNDEFEATED CHAMPION

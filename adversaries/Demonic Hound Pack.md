@@ -26,6 +26,7 @@ feats:
     desc: "Mark a Stress to make all targets within Very Close range lose a Hope. If a target is not able to lose a Hope, they must instead mark 2 Stress."
   - name: "Momentum - Reaction"
     desc: "When the Pack makes a successful attack against a PC, you gain a Fear."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # DEMONIC HOUND PACK

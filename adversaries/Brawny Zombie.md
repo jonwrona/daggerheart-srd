@@ -28,6 +28,7 @@ feats:
     desc: "Make a standard attack with advantage against a target the Zombie has Restrained. On a success, the attack deals direct damage."
   - name: "Rip and Tear - Reaction"
     desc: "When the Zombies makes a successful standard attack, you can mark a Stress to temporarily Restrain the target and force them to mark 2 Stress."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # BRAWNY ZOMBIE

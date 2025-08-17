@@ -22,6 +22,7 @@ feats:
     desc: "Mark a Stress to move into Melee range of an ally and make a standard attack against a target within Very Close range. On a success, deal 2d10+2 physical damage and the ally can clear a Stress."
   - name: "Vassal's Loyalty - Reaction"
     desc: "When the Soldier is within Very Close range of a knight or other noble who would take damage, you can mark a Stress to move into Melee range of them and take the damage instead."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # ELITE SOLDIER

@@ -28,6 +28,7 @@ feats:
     desc: "Make a standard attack against a target. On a success, you can mark a Stress to pin them to a nearby surface. The pinned target is Restrained until they break free with a successful Finesse or Strength Roll."
   - name: "Deadly Companion - Action"
     desc: "Twice per scene, summon a Bear, Dire Wolf, or similar Tier 1 animal adversary under the Beastmaster's control. The adversary appears at Close range and is immediately spotlighted."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # GIANT BEASTMASTER

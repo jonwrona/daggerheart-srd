@@ -27,6 +27,7 @@ feats:
     desc: "When the Brawler marks 2 or more HP from an attack within Very Close range, you can make a standard attack against the attacker. On a success, the Brawler deals 2d6+15 physical damage instead of their standard damage."
   - name: "Momentum - Reaction"
     desc: "When the Brawler makes a successful attack against a PC, you gain a Fear."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # GIANT BRAWLER

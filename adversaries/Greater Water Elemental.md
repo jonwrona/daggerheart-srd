@@ -24,6 +24,7 @@ feats:
     desc: "Spend a Fear to make an attack against all targets within Very Close range. Targets the Elemental succeeds against become Restrained and Vulnerable as they begin drowning. A target can break free, ending both conditions, with a successful Strength or Instinct Roll."
   - name: "High Tide - Reaction"
     desc: "When the Elemental makes a successful standard attack, you can mark a Stress to knock the target back to Close range."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # GREATER WATER ELEMENTAL

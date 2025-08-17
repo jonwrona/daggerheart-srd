@@ -1,4 +1,4 @@
-﻿# ADVANCED SCEPTER
+# ADVANCED SCEPTER
 
 **Trait:** Presence; **Range:** Far; **Damage:** d6+6 mag; **Burden:** Two-Handed
 

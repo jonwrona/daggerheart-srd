@@ -30,6 +30,7 @@ feats:
     desc: "When the Assassin successfully makes a standard attack against a Vulnerable target, you can spend a Fear to deal Severe damage instead of their standard damage."
   - name: "Momentum - Reaction"
     desc: "When the Assassin makes a successful attack against a PC, you gain a Fear."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # MASTER ASSASSIN

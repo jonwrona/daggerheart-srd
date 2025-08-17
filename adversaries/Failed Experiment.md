@@ -26,6 +26,7 @@ feats:
     desc: "When a target the Experiment attacks has other adversaries within Very Close range, the Experiment deals double damage."
   - name: "Lurching Lunge - Action"
     desc: "Mark a Stress to spotlight the Experiment as an additional GM move instead of spending Fear."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # FAILED EXPERIMENT

@@ -1,3 +1,34 @@
+---
+statblock: true
+layout: "Daggerheart Adversary"
+name: "Petty Noble"
+tier: 1
+type: "Social"
+description: "A richly dressed and adorned aristocrat brimming with hubris."
+difficulty: "14"
+thresholds: "6/10"
+atk: -3
+attack: "Rapier"
+range: "Melee"
+damage: "1d6+1 phy"
+hp: 3
+stress: 5
+experience:
+  - "Aristocrat +3"
+motives_and_tactics:
+  - "Abuse power"
+  - "gather resources"
+  - "mobilize minions"
+feats:
+  - name: "My Land, My Rules - Passive"
+    desc: "All social actions made against the Noble on their land have disadvantage."
+  - name: "Guards, Seize Them! - Action"
+    desc: "Once per scene, mark a Stress to summon 1d4 Bladed Guards, who appear at Far range to enforce the Noble's will."
+  - name: "Exile - Action"
+    desc: "Spend a Fear and target a PC. The Noble proclaims that the target and their allies are exiled from the noble's territory. While exiled, the target and their allies have disadvantage during social situations within the Noble's domain."
+source: "Daggerheart SRD - Adversaries"
+---
+
 # PETTY NOBLE
 
 ***Tier 1 Social***  
@@ -12,6 +43,6 @@
 
 ***My Land, My Rules - Passive:*** All social actions made against the Noble on their land have disadvantage.
 
-***Guards, Seize Them! - Action:*** Once per scene, mark a Stress to summon 1d4 Bladed Guards, who appear at Far range to enforce the Noble’s will.
+***Guards, Seize Them! - Action:*** Once per scene, mark a Stress to summon 1d4 Bladed Guards, who appear at Far range to enforce the Noble's will.
 
-***Exile - Action:*** Spend a Fear and target a PC. The Noble proclaims that the target and their allies are exiled from the noble’s territory. While exiled, the target and their allies have disadvantage during social situations within the Noble’s domain.
+***Exile - Action:*** Spend a Fear and target a PC. The Noble proclaims that the target and their allies are exiled from the noble's territory. While exiled, the target and their allies have disadvantage during social situations within the Noble's domain.

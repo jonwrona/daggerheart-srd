@@ -28,6 +28,7 @@ feats:
     desc: "Mark a Stress to charge through a group within Close range and make an attack against all targets in the Minotaur's path. Targets the Minotaur succeeds against take 2d6+8 physical damage and are knocked back to Very Far range. If a target is knocked into a solid object or another creature, they take an extra 1d6 damage (combine their damage)."
   - name: "Gore - Action"
     desc: "Make an attack against a target within Very Close range, moving the Minotaur into Melee range of them. On a success, deal 2d8 direct physical damage."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # MINOTAUR WRECKER

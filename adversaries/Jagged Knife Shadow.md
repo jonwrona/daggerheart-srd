@@ -25,6 +25,7 @@ feats:
     desc: "When the Shadow succeeds on a standard attack that has advantage, they deal 1d6+6 physical damage instead of their standard damage."
   - name: "Cloaked - Action"
     desc: "Become Hidden until after the Shadow's next attack. Attacks made while Hidden from this feature have advantage."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # JAGGED KNIFE SHADOW

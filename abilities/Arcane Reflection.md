@@ -1,4 +1,4 @@
-﻿# ARCANE REFLECTION
+# ARCANE REFLECTION
 
 > **Level 8 Arcana Spell**  
 > **Recall Cost:** 1

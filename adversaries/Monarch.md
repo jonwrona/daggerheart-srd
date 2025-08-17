@@ -27,6 +27,7 @@ feats:
     desc: "Once per scene, mark a Stress to summon Tier X Minions, who appear at Close range to enforce the Monarch's will."
   - name: "Census Bell - Reaction: Long-Term Countdown (8)"
     desc: "Spend a Fear to activate after the Monarch's desire for war is first revealed. When it triggers, the Monarch has a reason to rally the nation to war and the support to act on that reason. You gain 1d4 Fear."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # MONARCH

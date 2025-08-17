@@ -35,6 +35,7 @@ feats:
     desc: "When a target marks HP from an attack by the Realm-Breaker, all PCs within Far range of the target must lose a Hope."
   - name: "I Have Never Known Defeat (Phase Change) - Reaction"
     desc: "When the Realm-Breaker marks their last HP, replace them with the Undefeated Champion and immediately spotlight them."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # FALLEN WARLORD: REALM-BREAKER

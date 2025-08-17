@@ -30,6 +30,7 @@ feats:
     desc: "Spend a Fear to spotlight two other Demons within Far range."
   - name: "You Pale in Comparison - Reaction"
     desc: "When a PC fails a roll within Close range of the Demon, they must mark a Stress."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # DEMON OF HUBRIS

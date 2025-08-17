@@ -29,6 +29,7 @@ feats:
     desc: "Before rolling damage for the Construct's attack, you can mark a Stress to gain a +10 bonus to the damage roll. The Construct can then take the spotlight again."
   - name: "Death Quake - Reaction"
     desc: "When the Construct marks their last HP, the magic powering them ruptures in an explosion of force. Make an attack with advantage against all targets within Very Close range. Targets the Construct succeeds against take 1d12+2 magic damage."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # CONSTRUCT

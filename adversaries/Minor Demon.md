@@ -29,6 +29,7 @@ feats:
     desc: "Before rolling damage for the Demon's attack, you can mark a Stress to gain a bonus to the damage roll equal to the Demon's current number of marked HP."
   - name: "Momentum - Reaction"
     desc: "When the Demon makes a successful attack against a PC, you gain a Fear."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # MINOR DEMON

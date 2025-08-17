@@ -23,6 +23,7 @@ motives_and_tactics:
 feats:
   - name: "Searing Glance - Reaction"
     desc: "When a PC within Close range makes a Presence Roll, you can mark a Stress to cast a gaze toward the aftermath. On the target's failure, they must mark 2 Stress and are Vulnerable until the scene ends or they succeed on a social action against the Courtesan. On the target's success, they must mark a Stress."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # COURTESAN

@@ -33,6 +33,7 @@ feats:
     desc: "When the Flickerfly takes damage for the first time, activate the countdown. When it triggers, the Flickerfly breathes hallucinatory gas on all targets in front of them up to Far range. Targets must make an Instinct Reaction Roll or become overwhelmed by fearful hallucinations. Targets whose fears are known to the Flickerfly have disadvantage on this roll. Targets who fail lose 2 Hope and take 3d8+3 direct magic damage."
   - name: "Uncanny Reflexes - Reaction"
     desc: "When the Flickerfly takes damage from an attack within Close range, you can mark a Stress to take half damage."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # ADULT FLICKERFLY

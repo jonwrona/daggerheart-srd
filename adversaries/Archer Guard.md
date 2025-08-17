@@ -23,6 +23,7 @@ motives_and_tactics:
 feats:
   - name: "Hobbling Shot - Action"
     desc: "Make an attack against a target within Far range. On a success, mark a Stress to deal 1d12+3 physical damage. If the target marks HP from this attack, they have disadvantage on Agility Rolls until they clear at least 1 HP."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # ARCHER GUARD

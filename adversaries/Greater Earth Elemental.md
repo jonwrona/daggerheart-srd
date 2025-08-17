@@ -28,6 +28,7 @@ feats:
     desc: "Mark a Stress to create a rockslide that buries all the land in front of Elemental within Close range with rockfall. All targets in this area must make an Agility Reaction Roll (19). Targets who fail take 2d12+5 physical damage and become Vulnerable until their next roll with Hope. Targets who succeed take half damage."
   - name: "Momentum - Reaction"
     desc: "When the Elemental makes a successful attack against a PC, you gain a Fear."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # GREATER EARTH ELEMENTAL

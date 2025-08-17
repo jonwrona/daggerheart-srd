@@ -28,6 +28,7 @@ feats:
     desc: "All PCs within Far range lose 2 Hope."
   - name: "Magical Weakness - Reaction"
     desc: "When the Hydra takes magic damage, they become Dazed until the next roll with Fear. While Dazed, they can't use their Regeneration action but are immune to magic damage."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # HYDRA

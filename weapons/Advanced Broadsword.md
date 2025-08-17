@@ -1,4 +1,4 @@
-﻿# ADVANCED BROADSWORD
+# ADVANCED BROADSWORD
 
 **Trait:** Agility; **Range:** Melee; **Damage:** d8+6 phy; **Burden:** One-Handed
 

@@ -25,6 +25,7 @@ feats:
     desc: "A PC who succeeds on a Presence Roll against the Merchant gains a discount on purchases. A PC who fails on a Presence Roll against the Merchant must pay more and has disadvantage on future Presence Rolls against the Merchant."
   - name: "The Runaround - Passive"
     desc: "When a PC rolls a 14 or lower on a Presence Roll made against the Merchant, they must mark a Stress."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # MERCHANT

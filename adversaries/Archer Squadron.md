@@ -24,6 +24,7 @@ feats:
     desc: "Spend a Fear to target a point within Far range. Make an attack with advantage against all targets within Close range of that point. Targets the Squadron succeeds against take 1d10+4 physical damage."
   - name: "Suppressing Fire - Action"
     desc: "Mark a Stress to target a point within Far range. Until the next roll with Fear, a creature who moves within Close range of that point must make an Agility Reaction Roll. On a failure, they take 2d6+3 physical damage. On a success, they take half damage."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # ARCHER SQUADRON

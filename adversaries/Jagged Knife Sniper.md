@@ -23,6 +23,7 @@ motives_and_tactics:
 feats:
   - name: "Unseen Strike - Passive"
     desc: "If the Sniper is Hidden when they make a successful standard attack against a target, they deal 1d10+4 physical damage instead of their standard damage."
+source: "Daggerheart SRD - Adversaries"
 ---
 
 # JAGGED KNIFE SNIPER

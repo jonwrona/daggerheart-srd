@@ -1,4 +1,4 @@
-﻿# ARMORER
+# ARMORER
 
 > **Level 5 Valor Ability**  
 > **Recall Cost:** 1

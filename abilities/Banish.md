@@ -1,4 +1,4 @@
-﻿# BANISH
+# BANISH
 
 > **Level 6 Codex Spell**  
 > **Recall Cost:** 0
