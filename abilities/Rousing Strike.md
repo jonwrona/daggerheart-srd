@@ -1,4 +1,4 @@
-﻿# ROUSING STRIKE
+# ROUSING STRIKE
 
 > **Level 5 Valor Ability**  
 > **Recall Cost:** 1
