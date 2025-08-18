@@ -1,4 +1,4 @@
-﻿# ADVANCED SHORTSWORD
+# ADVANCED SHORTSWORD
 
 **Trait:** Agility; **Range:** Melee; **Damage:** d8+4 phy; **Burden:** One-Handed
 
